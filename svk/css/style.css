@@ -16,6 +16,7 @@
 
 body {
   background-color: var(--light) !important;
+  overflow-x: hidden;
   /* color: #ffffff; */
 }
 /* 
